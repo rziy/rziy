@@ -8,7 +8,7 @@
 <a href="https://github.com/rziy">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1400&amp;color=7FD6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Visual+communication+designer;Learning+to+code,+little+by+little;Hardcore+anime+watcher;Owner+of+the+CLOCKWYRD+server">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1400&amp;color=1B6FA0&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Visual+communication+designer;Learning+to+code,+little+by+little;Hardcore+anime+watcher;Owner+of+the+CLOCKWYRD+server" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1400&amp;color=1B6FA0&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Visual+Communication+Designer;Learning+to+code,+little+by+little;Hardcore+anime+watcher;Owner+of+the+CLOCKWYRD+server" alt="Typing intro">
   </picture>
 </a>
 
