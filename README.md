@@ -47,7 +47,7 @@ Mampir, kenalan, dan ngobrol bareng. Semua boleh gabung.
 <!--ANILIST:START-->
 ## Aktivitas anime terbaru
 
-- 2025-07-05 · Completed [Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~](https://anilist.co/anime/178100)
+- 2025-07-05 · Completed [Bogus Skill \<\<Fruitmaster\>\> \~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)\~](https://anilist.co/anime/178100)
 - 2025-07-05 · Completed [Sword Art Online](https://anilist.co/anime/11757)
 - 2025-07-05 · Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900)
 - 2025-07-05 · Completed [Pseudo Harem](https://anilist.co/anime/163623)
