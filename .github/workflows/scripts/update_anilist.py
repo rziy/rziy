@@ -96,7 +96,7 @@ def build(user):
 
     table = "\n".join(rows)
     return (
-        "## Aktivitas anime terbaru\n\n"
+        "## Recent anime activity\n\n"
         f'<div align="center">\n\n<table>\n{table}\n</table>\n\n</div>\n\n---\n'
     )
 
