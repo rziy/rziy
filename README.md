@@ -34,8 +34,6 @@ extensions. Not great at it yet, but still learning.
 
 ---
 
-WORKS GALLERY (remove this comment marker after uploading images)
-
 ## Works
 
 <div align="center">
