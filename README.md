@@ -1,9 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=200&section=header&text=REI&fontSize=76&fontColor=e0e6ed&fontAlignY=38&animation=fadeIn&desc=designer%20%C2%B7%20DKV%20%C2%B7%20visual%20dan%20brand&descSize=16&descColor=7fd6ff&descAlignY=60" alt="Rei" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1b2a&amp;height=200&amp;section=header&amp;text=REI&amp;fontSize=76&amp;fontColor=e0e6ed&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=designer%20%C2%B7%20DKV%20%C2%B7%20visual%20and%20brand&amp;descSize=16&amp;descColor=7fd6ff&amp;descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=e8eef7&amp;height=200&amp;section=header&amp;text=REI&amp;fontSize=76&amp;fontColor=0d1b2a&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=designer%20%C2%B7%20DKV%20%C2%B7%20visual%20and%20brand&amp;descSize=16&amp;descColor=1b6fa0&amp;descAlignY=60" alt="Rei" width="100%">
+</picture>
 
 <a href="https://github.com/rziy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=7FD6FF&center=true&vCenter=true&width=520&lines=Designer+anak+DKV;Lagi+belajar+ngoding+dikit-dikit;Penonton+anime+garis+keras;Pemilik+server+CLOCKWYRD" alt="Typing intro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1400&amp;color=7FD6FF&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Visual+communication+designer;Learning+to+code,+little+by+little;Hardcore+anime+watcher;Owner+of+the+CLOCKWYRD+server">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1400&amp;color=1B6FA0&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Visual+communication+designer;Learning+to+code,+little+by+little;Hardcore+anime+watcher;Owner+of+the+CLOCKWYRD+server" alt="Typing intro">
+  </picture>
 </a>
 
 <br>
@@ -18,16 +24,39 @@
 
 ## About
 
-Anak **DKV** yang kerja utamanya di desain visual. Belakangan lagi belajar bikin hal-hal kecil
-lewat kode, mulai dari website sampai ekstensi browser. Belum jago, masih terus belajar.
+I'm a **DKV** (visual communication design) person, and my main work is visual design.
+Lately I've been learning to build small things with code, from websites to browser
+extensions. Not great at it yet, but still learning.
 
-- Fokus di desain visual dan tampilan yang rapi
-- Lagi belajar HTML, CSS, dan JavaScript lewat proyek sendiri
-- Suka anime
+- Focused on visual design and clean, tidy layouts
+- Learning HTML, CSS, and JavaScript through my own projects
+- Into anime
 
 ---
 
-## Server Discord
+<!--
+WORKS GALLERY (remove this comment marker after uploading images)
+
+## Works
+
+<div align="center">
+
+<table>
+<tr>
+<td><a href="https://portrei.vercel.app"><img src="assets/karya-1.jpg" width="260" alt="Work 1"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="assets/karya-2.jpg" width="260" alt="Work 2"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="assets/karya-3.jpg" width="260" alt="Work 3"></a></td>
+</tr>
+</table>
+
+[See all works in my portfolio](https://portrei.vercel.app)
+
+</div>
+
+---
+-->
+
+## Discord Server
 
 <div align="center">
 
@@ -35,8 +64,11 @@ lewat kode, mulai dari website sampai ekstensi browser. Belum jago, masih terus 
   <img src="https://img.shields.io/badge/JOIN-CLOCKWYRD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1b263b" alt="Join CLOCKWYRD">
 </a>
 
-**CLOCKWYRD** adalah server Discord buatan aku sendiri.
-Mampir, kenalan, dan ngobrol bareng. Semua boleh gabung.
+[![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv9%2Finvites%2FKsbuavfTwf%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=members&color=5865F2&labelColor=1b263b&style=flat-square)](https://discord.gg/KsbuavfTwf)
+[![Online](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv9%2Finvites%2FKsbuavfTwf%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&label=online&color=3ba55d&labelColor=1b263b&style=flat-square)](https://discord.gg/KsbuavfTwf)
+
+**CLOCKWYRD** is a Discord server I made myself.
+Drop by, say hi, and hang out. Everyone is welcome.
 
 [`discord.gg/KsbuavfTwf`](https://discord.gg/KsbuavfTwf)
 
@@ -45,28 +77,16 @@ Mampir, kenalan, dan ngobrol bareng. Semua boleh gabung.
 ---
 
 <!--ANILIST:START-->
-## Aktivitas anime terbaru
-
-<div align="center">
-
-<table>
-<tr><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/178100"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178100-GF4dKSrkdByJ.jpg" width="130" height="185" alt="Bogus Skill &lt;&lt;Fruitmaster&gt;&gt; ~…"></a><br><a href="https://anilist.co/anime/178100"><b>Bogus Skill &lt;&lt;Fruitmaster&gt;&gt; ~…</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/11757"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg" width="130" height="185" alt="Sword Art Online"></a><br><a href="https://anilist.co/anime/11757"><b>Sword Art Online</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/160900"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160900-GxVB6H5ewrqv.jpg" width="130" height="185" alt="The Kingdoms of Ruin"></a><br><a href="https://anilist.co/anime/160900"><b>The Kingdoms of Ruin</b></a><br><sub>Completed<br>2025-07-05</sub></td></tr>
-<tr><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/163623"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163623-pzR6vIHoJh0b.jpg" width="130" height="185" alt="Pseudo Harem"></a><br><a href="https://anilist.co/anime/163623"><b>Pseudo Harem</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/145545"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145545-DGl3LVvFlnHi.png" width="130" height="185" alt="Classroom of the Elite Season…"></a><br><a href="https://anilist.co/anime/145545"><b>Classroom of the Elite Season…</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/98659"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg" width="130" height="185" alt="Classroom of the Elite"></a><br><a href="https://anilist.co/anime/98659"><b>Classroom of the Elite</b></a><br><sub>Completed<br>2025-07-05</sub></td></tr>
-</table>
-
-</div>
-
----
 <!--ANILIST:END-->
 
 <!--
-ANIME FAVORIT (hapus tanda komentar ini setelah diisi)
+FAVORITE ANIME (remove this comment marker after filling it in)
 
-## Anime favorit
+## Favorite anime
 
-- [Judul anime](https://anilist.co/anime/ID)
-- [Judul anime](https://anilist.co/anime/ID)
-- [Judul anime](https://anilist.co/anime/ID)
+- [Anime title](https://anilist.co/anime/ID)
+- [Anime title](https://anilist.co/anime/ID)
+- [Anime title](https://anilist.co/anime/ID)
 
 ---
 -->
@@ -88,7 +108,7 @@ ANIME FAVORIT (hapus tanda komentar ini setelah diisi)
 
 ---
 
-## Kontak
+## Contact
 
 - Discord: `az2e`
 - Email: [zyfiq001@gmail.com](mailto:zyfiq001@gmail.com)
@@ -97,6 +117,9 @@ ANIME FAVORIT (hapus tanda komentar ini setelah diisi)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a&height=90&section=footer" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1b2a&amp;height=90&amp;section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=e8eef7&amp;height=90&amp;section=footer" alt="" width="100%">
+</picture>
 
 </div>
