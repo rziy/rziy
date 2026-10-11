@@ -34,7 +34,6 @@ extensions. Not great at it yet, but still learning.
 
 ---
 
-<!--
 WORKS GALLERY (remove this comment marker after uploading images)
 
 ## Works
@@ -43,9 +42,9 @@ WORKS GALLERY (remove this comment marker after uploading images)
 
 <table>
 <tr>
-<td><a href="https://portrei.vercel.app"><img src="assets/karya-1.jpg" width="260" alt="Work 1"></a></td>
-<td><a href="https://portrei.vercel.app"><img src="assets/karya-2.jpg" width="260" alt="Work 2"></a></td>
-<td><a href="https://portrei.vercel.app"><img src="assets/karya-3.jpg" width="260" alt="Work 3"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="project/project-01.webp" width="260" alt="Work 1"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="project/project-02.webp" width="260" alt="Work 2"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="project/project-03.webp" width="260" alt="Work 3"></a></td>
 </tr>
 </table>
 
@@ -54,7 +53,6 @@ WORKS GALLERY (remove this comment marker after uploading images)
 </div>
 
 ---
--->
 
 ## Discord Server
 
