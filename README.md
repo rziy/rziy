@@ -40,9 +40,9 @@ extensions. Not great at it yet, but still learning.
 
 <table>
 <tr>
-<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/project/project-01.webp" width="260" alt="Work 1"></a></td>
-<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/project/project-01.webp" width="260" alt="Work 1"></a></td>
-<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/project/project-01.webp" width="260" alt="Work 1"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/images/projects/project-01/cover.webp" width="260" alt="Work 1"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/images/projects/project-02/cover.webp" width="260" alt="Work 2"></a></td>
+<td><a href="https://portrei.vercel.app"><img src="https://portrei.vercel.app/images/projects/project-03/cover.webp" width="260" alt="Work 3"></a></td>
 </tr>
 </table>
 
