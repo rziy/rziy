@@ -43,7 +43,8 @@ def gql(query, variables):
 
 
 def clean(text):
-    return (text or "").replace("[", "(").replace("]", ")").strip()
+    text = (text or "").replace("[", "(").replace("]", ")").strip()
+    return re.sub(r"([\\`*_~<>|])", r"\\\1", text)
 
 
 def line(act):
