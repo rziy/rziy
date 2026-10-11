@@ -77,6 +77,18 @@ Drop by, say hi, and hang out. Everyone is welcome.
 ---
 
 <!--ANILIST:START-->
+## Recent anime activity
+
+<div align="center">
+
+<table>
+<tr><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/178100"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178100-GF4dKSrkdByJ.jpg" width="130" height="185" alt="Bogus Skill &lt;&lt;Fruitmaster&gt;&gt; ~…"></a><br><a href="https://anilist.co/anime/178100"><b>Bogus Skill &lt;&lt;Fruitmaster&gt;&gt; ~…</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/11757"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg" width="130" height="185" alt="Sword Art Online"></a><br><a href="https://anilist.co/anime/11757"><b>Sword Art Online</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/160900"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160900-GxVB6H5ewrqv.jpg" width="130" height="185" alt="The Kingdoms of Ruin"></a><br><a href="https://anilist.co/anime/160900"><b>The Kingdoms of Ruin</b></a><br><sub>Completed<br>2025-07-05</sub></td></tr>
+<tr><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/163623"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163623-pzR6vIHoJh0b.jpg" width="130" height="185" alt="Pseudo Harem"></a><br><a href="https://anilist.co/anime/163623"><b>Pseudo Harem</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/145545"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145545-DGl3LVvFlnHi.png" width="130" height="185" alt="Classroom of the Elite Season…"></a><br><a href="https://anilist.co/anime/145545"><b>Classroom of the Elite Season…</b></a><br><sub>Completed<br>2025-07-05</sub></td><td align="center" valign="top" width="170"><a href="https://anilist.co/anime/98659"><img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg" width="130" height="185" alt="Classroom of the Elite"></a><br><a href="https://anilist.co/anime/98659"><b>Classroom of the Elite</b></a><br><sub>Completed<br>2025-07-05</sub></td></tr>
+</table>
+
+</div>
+
+---
 <!--ANILIST:END-->
 
 <!--
