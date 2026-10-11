@@ -22,7 +22,7 @@ jobs:
         env:
           ANILIST_USER: "raeri"
           LIMIT: "6"
-           run: python .github/workflows/scripts/update_anilist.py
+        run: python .github/workflows/scripts/update_anilist.py
 
       - name: Commit kalau ada perubahan
         run: |
