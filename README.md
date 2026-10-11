@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1b2a&amp;height=200&amp;section=header&amp;text=REI&amp;fontSize=76&amp;fontColor=e0e6ed&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Designer%20%C2%B7%20DKV%20%C2%B7%20Visual%20and%20Illustration&amp;descSize=16&amp;descColor=7fd6ff&amp;descAlignY=60">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1b2a&amp;height=200&amp;section=header&amp;text=REI&amp;fontSize=76&amp;fontColor=e0e6ed&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Designer%20%C2%B7%20Illustration%20%C2%B7%20Code%20and%20Nolife&amp;descSize=16&amp;descColor=7fd6ff&amp;descAlignY=60">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=e8eef7&amp;height=200&amp;section=header&amp;text=REI&amp;fontSize=76&amp;fontColor=0d1b2a&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=designer%20%C2%B7%20DKV%20%C2%B7%20visual%20and%20brand&amp;descSize=16&amp;descColor=1b6fa0&amp;descAlignY=60" alt="Rei" width="100%">
 </picture>
 
