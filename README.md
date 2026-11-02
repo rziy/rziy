@@ -119,7 +119,7 @@ FAVORITE ANIME (remove this comment marker after filling it in)
 ## Contact
 
 - Discord: `az2e`
-- Email: [zyfiq001@gmail.com](mailto:zyfiq001@gmail.com)
+- Email: [-](mailto:)
 - Portfolio: [portrei.vercel.app](https://portrei.vercel.app)
 - Server: [CLOCKWYRD](https://discord.gg/KsbuavfTwf)
 
